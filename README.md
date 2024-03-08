@@ -15,7 +15,7 @@ For a sample custom dataset, we will first use the LabelImg tool, I set the doug
 
 After the labeling is done, you can train your custom dataset using YoloV8 with the google colab codes I shared
 
-https://colab.research.google.com/drive/1IDjV631PbQDeeozgfagG2fb90vYo7X5i#scrollTo=Ew0vZkbQXvTO
+Google Colab Link = https://colab.research.google.com/drive/1IDjV631PbQDeeozgfagG2fb90vYo7X5i#scrollTo=Ew0vZkbQXvTO
 
 Çıktılar:
 ![image](https://github.com/Harunercul/YoloV8-Custom-Dataset-Train/assets/105969081/b089ad63-1415-4c8d-b0dc-12f8d778074a)
